@@ -1,1 +1,1 @@
-# web2
+# Colmar Project using HTML and CSS
